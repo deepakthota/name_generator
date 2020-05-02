@@ -1,16 +1,5 @@
-# to_do_app
+# Name Generator App
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Basic first Flutter App which has a list view of randomly generated list of names.
+Also involved feature for users to save their favorites, which introduced state management in Flutter apps
+New route to show the user, their saved names - introduce routes and Navigator
